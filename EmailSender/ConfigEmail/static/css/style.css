@@ -1,0 +1,21 @@
+.row-margin{
+    margin-top: 2%;
+}
+
+.table-wrap {
+  height: 450px;
+  overflow-y: auto;
+}
+
+div#loading {
+    width: 35px;
+    height: 35px;
+    display: none;
+    cursor: wait;
+    background-color: #0275d8;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -100px 0 0 -150px;
+
+    }
